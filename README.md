@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi there! I'm Ankit Kamat
 
-<!--
-**ANKIT-KAMAT/ANKIT-KAMAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Graduate  
+⚙️ Embedded Systems Enthusiast | C Programmer  
+📍 India 
+💡 Always curious, always building
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔧 Passionate about Embedded C, ARM Architecture & Microcontrollers (LPC21xx)  
+- 🌱 Currently learning real-time systems & device-level programming  
+- 🎯 Goal: Become a skilled Embedded Developer  
+- ✨ I love solving low-level problems and bringing hardware to life through code
+
+---
+
+### 🛠️ Skills
+
+- Programming: `C`, `Embedded C`
+- Platforms: `ARM7`, `Keil`, `Proteus`
+- Tools: `Git`, `VS Code`
+
+---
+
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)  
+✉️ ankit.yourmail@example.com
+
+---
+
+_Thanks for visiting my profile!_  
+_Let’s build something amazing together!_
